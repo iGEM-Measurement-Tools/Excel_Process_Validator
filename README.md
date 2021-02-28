@@ -1,6 +1,6 @@
 # Excel Process Validator
 
-![Build Status](https://github.com/TASBE/Excel_Process_Validator/actions/workflows/CI.yml/badge.svg)
+![Build Status](https://github.com/iGEM-Measurement-Tools/Excel_Process_Validator/actions/workflows/CI.yml/badge.svg)
 
 The purpose of the Excel Process Validator (EPV) software is to 
 automatically check calibration and process control data stored in an 
